@@ -26,4 +26,5 @@ Github my projects. Feel free to check them out.</i></h4><br>
 </ul>
 
 ## Support
-email: unknowwn@protonmail.ch
+| email:    | unknowwn@protonmail.ch |
+| --------- | ----------------------|
