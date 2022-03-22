@@ -24,7 +24,3 @@ Github my projects. Feel free to check them out.</i></h4><br>
 <li>Currently learning Python🐍</li>
 <li>I almost forgot, Pizza is a good one🍕</li>
 </ul>
-
-## Support
-| email:    | unknowwn@protonmail.ch |
-| --------- | ----------------------|
